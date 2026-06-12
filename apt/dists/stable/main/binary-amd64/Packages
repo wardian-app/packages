@@ -1,0 +1,17 @@
+Package: wardian
+Architecture: amd64
+Version: 0.4.0
+Priority: optional
+Maintainer: Tan Gemicioglu
+Installed-Size: 43311
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/w/wardian/Wardian_0.4.0_amd64.deb
+Size: 16435750
+MD5sum: d2d2e647c0ee6b8015b95b716227eab0
+SHA1: 2f2ecc0b29311edfc087b2d454185ab7735524ed
+SHA256: 1cf55b37258cace31449c3a2f875468aa3ea5369112853f873a99d99d7b35ae2
+SHA512: c2a4a6efdbd3ef10231da123a8b8939d25981f4624ca82c460f5068c0ba9177a8e15491d7e6d52c0689b268b0daae10a161b9e1bb154fc6d5af53bbd712c5e62
+Homepage: https://wardian.org
+Description: Local command center for multi-agent CLI workflows — see every session, collect completed work in a queue, and give agents a CLI surface for coordinating and controlling Wardian.
+ (none)
+

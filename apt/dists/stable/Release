@@ -1,0 +1,20 @@
+Origin: Wardian
+Label: Wardian
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Wardian stable APT repository
+Date: Fri, 12 Jun 2026 04:34:40 +0000
+MD5Sum:
+ e67a49dc3e847ec19aa75b234564dbec              761 main/binary-amd64/Packages
+ 433bbd593bae9f3461f22d3e68e37b00              555 main/binary-amd64/Packages.gz
+SHA1:
+ 370c7eec016fbfea598b33fec2f675927573ba50              761 main/binary-amd64/Packages
+ 0141bd63b4b12f030261426e2fec697c3301b092              555 main/binary-amd64/Packages.gz
+SHA256:
+ ee6dfc904effdcbcfc9630a9cfe19c43ac5aa854e8003e25d7ac10309c4e1995              761 main/binary-amd64/Packages
+ 5263cdcf7d7b64d3fa1fdee74681c05116e91ddd6d6ab4ecccf5cc3ec3b031dd              555 main/binary-amd64/Packages.gz
+SHA512:
+ b1b6f0ad39d5332abca625575ebbb862e43ddd6dd6a4431cefc90c5a03bfde071b2cb76c7d0143c172f2c6880675e84dd8a7ecc16d712faa462e5a4a7caea85e              761 main/binary-amd64/Packages
+ 993b2477ef340986f1aebb81f54e4b58fd7d970d710e6616259add7085015033aa88019e24526a7be320f59e2cff242a7838a58c83b0e12f72befd29a78e9082              555 main/binary-amd64/Packages.gz
