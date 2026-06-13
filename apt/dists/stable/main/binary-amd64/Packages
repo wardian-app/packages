@@ -15,3 +15,20 @@ Homepage: https://wardian.org
 Description: Local command center for multi-agent CLI workflows — see every session, collect completed work in a queue, and give agents a CLI surface for coordinating and controlling Wardian.
  (none)
 
+Package: wardian
+Architecture: amd64
+Version: 0.4.1
+Priority: optional
+Maintainer: Tan Gemicioglu
+Installed-Size: 44025
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/w/wardian/Wardian_0.4.1_amd64.deb
+Size: 16804368
+MD5sum: 18bc4a206780800ae396ac34ae99fdc7
+SHA1: e40afd21fcb6ec960574bca093970d59b6d52d68
+SHA256: 8cbae2201dbc1c6717dcc31f4b85a9b2fba7f8778b16d4b7044c8527844b0dcf
+SHA512: 3b39794d367a6fde229f2389c9830469cd59046cfd630aa9e5f8ba294a4cd6640cd61af7df7d6b83ea5fb0d10e466a01cfb6ff8e8b4b7685108bee8a0d00e85f
+Homepage: https://wardian.org
+Description: A local desktop command center for supervising and shaping AI agent teams.
+ (none)
+
