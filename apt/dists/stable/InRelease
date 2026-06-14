@@ -8,36 +8,36 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Wardian stable APT repository
-Date: Sat, 13 Jun 2026 21:21:26 +0000
+Date: Sun, 14 Jun 2026 03:04:06 +0000
 MD5Sum:
- e1078cbee1dce84532d523ec9dd72849             1119 Release
+ 34db969613c28c761d2d3c724d69c82f             1491 Release
  3c7feb253e13cbc2170865bc93dd0814             1416 main/binary-amd64/Packages
- 267f8e1a9828ed7801fd1829578f4bcc              794 main/binary-amd64/Packages.gz
+ b9253e5ca29b30a3a764df53a2ac8361              794 main/binary-amd64/Packages.gz
 SHA1:
- a4d1d16eb939375a7155150a6232bf41c26f589a             1119 Release
+ ac06547f44bcdafc0769c000a552333eeee78e66             1491 Release
  e7fc95458c389402a3fe19b6072dd1dae1b64151             1416 main/binary-amd64/Packages
- d29ebf3d04a6a3ecf36f4a4bcb163a865c54dc59              794 main/binary-amd64/Packages.gz
+ 9bd2c4b5119557bb8978c3ceffec7e943b8143ed              794 main/binary-amd64/Packages.gz
 SHA256:
- 7f616b21f0b11098b853067d9c45adab06dee737ff2f736824ea9226d9b1ce06             1119 Release
+ 0853ac598d12a4727700fd6a49710de7eb3582f4c5ca3c2cdf2b78181e420dc8             1491 Release
  3854a187f2e7bf66b5ad5c13f1772b5eb46b70b10830dafcd63794da80a35586             1416 main/binary-amd64/Packages
- a26c45951e62410dedeb1d567544bf4cec0ca1879f3de19ef545b1697edf86c2              794 main/binary-amd64/Packages.gz
+ 53ae199dfae50ced7841b4e3b297a55679edbec529ae565bc01afcf423ddc98a              794 main/binary-amd64/Packages.gz
 SHA512:
- 2838077fb780f3db89ec3bfe29b4bb5fbdd658a31001122a1b8a9efdb3677df40d25e2139f51dac61429bf448f3ddeb209e922f4ffb727125f1b18f03bfcc1d9             1119 Release
+ 9a183de38eea3a96dddf00a4106f48faecf7e01292eadb424a7a150282e0b8a7ee0124b00cf7dd2eb6375a5e87c97e4c2a30c6e0586a3912b197ee3c913a2594             1491 Release
  6c1a6478dd94326172a719efa465ce2c04d015d50a2b74d1ee1c45fcec14a5a9341f7ee9d3280bca97fd73f5aedd16ddc344eb359d6d498f7af196bd0eb113d1             1416 main/binary-amd64/Packages
- 09288083a9fdd2771d2fd89a70fec306a1dccc0ca8903d53c334e5db272137787f92245a9e06b9d34b6318511a6e9cac164995de5041b16a61297d8f245945df              794 main/binary-amd64/Packages.gz
+ 47f102e25f6cf09286393c59c39969b6e02be2f3a2ba318ef570df01888eddda4d4e3b1ceedb99f7ae9fd74b94b5be65373891db8558a2eb6e05d6922945ac92              794 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEyVY8BdiNtIN0il+LZuX/UQvOkZMFAmotydYACgkQZuX/UQvO
-kZMMkQ/+LPSZ92yJ82zMpiyLKl2Ib4UO6jrLMPua1a5n4CGmjYrHqgK3gHbHbCgO
-g5oMCcoIOKFOVSr50832sk+hkC+uHJiC7cLyzRCWp3q8H0cLqRqx6Kkk1DSJS3cW
-gWnz4+WOdMPMBZ/9QQ6cixy+D9dfrB8NGc0YWJZ7Cv/9ykBUP5Uzk4qUPg7IsnkP
-FB4pjieKsUUsHcHU8r1U6BRRw4BKYq5ZkUOzkXGqKR3g6ZSL6B+uuk4YxIaLKlqd
-AFW0ygNyBGLSSQ9aMGx0f3nGO094s/J/PPNPDvJqXnuNimQ+ik3CjfoyFJq771KQ
-Y0xmywQkrz0sN6f8aZqBUEC8+1v4T7jB90hA51DG471ggQAL3pzRaxKj3tBHCYZJ
-xPorsJWBT+xqK0VangtlSPsQFqfOCxuGfJvc/1z+UHM8fIqc6twPBTE1eyMNQiHn
-mm4HTLUFyunEQXV9mHCC2oYVXJ57pYyEJCu24oEI6sjlNzrIdpRHz/oVySDvAT8R
-T3mHqfrTlVV5VcH2OJ7TW5mH03J2WAb1ZV35flnkZ6zca15lybfehSACf7vnTnRS
-YZibeDopjN3Ni4bvfKARe0Qa1aSPh1fWQIahCQbUFWfIBMSsrZ+hlA7M0g1yiIxq
-+ClehgqR1lMzBlkhVUUC/IGa3/DzxnrJholS2ozrPOwwe0xtvqI=
-=hDs7
+iQIzBAEBCgAdFiEEyVY8BdiNtIN0il+LZuX/UQvOkZMFAmouGiYACgkQZuX/UQvO
+kZN7dQ//fm3ccTuLRWdEnVwHLfsJgWD9njxXBfN760KyUDmZtpJRrGZO+unbSPd4
+MjhZS4HgwkQjGQmohsLRuxISnXZl5TyMDVYiazQGsXq+aDt7p5SQpDFn1oRSUP8+
+2Tv0EihazB82kOY8F0ueKn6jy7DagsPTmDOfU3F2B+NcYM0b0/OmHhp6oRTNRTu1
+pfEK5Y/qTjOM+/NfQmhqPMoSaaiBcLKCinvseQo/hQYNfU/Rdl9kVPly1lAnnROU
+nHT9HOO7Qhz5lmzHsgzG17XJGN1hx17v3sIBjrsRrzLeFEBIvE2TsSKMDPN9wkPg
+ymVoHqCr4Ai4BrXZTG/JPzXxuTxXmbmfZXvf493JBqVa93Q1imVu3VpADPWZ6TEr
+JfS55g6ifL8Vl86xT3voLSGTFIbEVkVz8eaRxxrXRl5nLwhZ9itlYIWgLgCJet/2
+UzVTNgYrZbobNf/1ffMnb0rHcUqi3mOJs6CQj6vBAkdX36fgoXkIMES65qxc2ToZ
+6dyJwDXtj10EXKmY7rBOJa885ixuIcUiPclOHhwysP3OWBUpb5RXluu1xhCbR1ZM
+QWkpaymhIobNo9X1K2u6AZZuZHqRysiWHembp9cjOdwoHYZOdDd+uaNpLAosVRNI
+YjnOJO5n+9y5E6Wv5LkN8TCtxZRU+teG2wdG70w4/gmoyajgC8A=
+=fZd5
 -----END PGP SIGNATURE-----
