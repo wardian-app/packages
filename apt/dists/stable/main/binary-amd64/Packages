@@ -32,3 +32,20 @@ Homepage: https://wardian.org
 Description: A local desktop command center for supervising and shaping AI agent teams.
  (none)
 
+Package: wardian
+Architecture: amd64
+Version: 0.4.2
+Priority: optional
+Maintainer: Tan Gemicioglu
+Installed-Size: 46920
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/w/wardian/Wardian_0.4.2_amd64.deb
+Size: 18118612
+MD5sum: 8012c76de0bca17bf8e2288a793d085c
+SHA1: acbf32238089a925173f0191c925df440c1b9cb3
+SHA256: 62e0aba0892fdf13f183853636f876894d03e4ed7859647aaf76b0770fea6ea6
+SHA512: e1fc310fbaa83b4efee4ec337ac40911fc19adc6975d5c3c81be5bd9dd2b391470bd398e06da7153b6420dc8822450c67bf0167753e1f90e969e57878221f571
+Homepage: https://wardian.org
+Description: A local desktop command center for supervising and shaping AI agent teams.
+ (none)
+
