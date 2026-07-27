@@ -66,3 +66,20 @@ Homepage: https://wardian.org
 Description: A modular, local-first desktop habitat for agents, workflows, and reusable context.
  (none)
 
+Package: wardian
+Architecture: amd64
+Version: 0.5.0
+Priority: optional
+Maintainer: Tan Gemicioglu
+Installed-Size: 63440
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/w/wardian/Wardian_0.5.0_amd64.deb
+Size: 23687606
+MD5sum: 7d59f761124ef5249f3f4fbf0baccf37
+SHA1: 71cb3055db687d4e050874c7d4166a4c707337f5
+SHA256: 13d631d7123138ec986207e2b6d0787f9ec7d73de5ec3b9e235d5523f72ca2a4
+SHA512: 7a9b233505b8180d863f9cc2834d93098ee9d033e856289120272ab0b4cdbdb1096ac225995f18d06a841607bbb3582aa2c52786992d9a905ab63e9200dff4d7
+Homepage: https://wardian.org
+Description: Where local agent work becomes visible, durable, and malleable.
+ (none)
+
