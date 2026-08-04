@@ -100,3 +100,20 @@ Homepage: https://wardian.org
 Description: Where local agent work becomes visible, durable, and malleable.
  (none)
 
+Package: wardian
+Architecture: amd64
+Version: 0.5.2
+Priority: optional
+Maintainer: Tan Gemicioglu
+Installed-Size: 64970
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/w/wardian/Wardian_0.5.2_amd64.deb
+Size: 24141174
+MD5sum: e0bd173465cb5e875901ba58fcd03bfe
+SHA1: c95b851e505e6b59ca44253e079b17c8a9d2a4c0
+SHA256: c38d521afe05fba257c3ed88b9f3d696a33a6cc09a21f5eb3b6baa3d2eaccc2b
+SHA512: 8a83a43a4454dbfd8f01fb783cea8d3ff445f4f24c893f3141568000fd9c429bd0cbef1480e2379e558991df079f76d5eacdc150536e4dc2a02abead766002f4
+Homepage: https://wardian.org
+Description: Where local agent work becomes visible, durable, and malleable.
+ (none)
+
